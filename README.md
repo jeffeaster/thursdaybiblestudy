@@ -1,5 +1,4 @@
 <h1>Thursday Bible Study</h1>
-<h2>Topics and meeting notes</h2>
 <hr>
 <h2>2023</h2>
 <ul>
