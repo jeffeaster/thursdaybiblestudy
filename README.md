@@ -1,5 +1,3 @@
-<h1>Thursday Bible Study</h1>
-
 <h2>2023</h2>
 <ul>
  <li>Thessalonians</li>
