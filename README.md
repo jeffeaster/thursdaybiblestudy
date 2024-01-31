@@ -1,12 +1,16 @@
 # thursdaybiblestudy
-Topics and meeting notes
+<h1>Topics and meeting notes</h1>
 
-2023
-------
-2 Thessalonians
-Hebrews
-1 Peter
+<h2>2023</h2>
+<ul>
+<li>Thessalonians</li>
+<li>Hebrews</li>
+<li>1 Peter</li>
+</ul>
 
-2024
-------
-2 Peter
+<hr>
+
+<h2>2024</h2>
+<ul>
+  <li>2 Peter</li>
+</ul>
