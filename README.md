@@ -8,5 +8,5 @@
 <h2>2024</h2>
 <ul>
  <li>2 Peter</li>
- <ul><li><a href="2 Peter Outline.pdf">Outline</li></ul>
+ <ul><li><a href="2 Peter Outline.pdf">Outline</a></li></ul>
 </ul>
